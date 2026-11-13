@@ -1,0 +1,6 @@
+[submodule "libs/langgraph"]
+	path = libs/langgraph
+	url = https://github.com/langchain-ai/langgraph.git
+[submodule "libs/langchain"]
+	path = libs/langchain
+	url = https://github.com/langchain-ai/langchain.git
